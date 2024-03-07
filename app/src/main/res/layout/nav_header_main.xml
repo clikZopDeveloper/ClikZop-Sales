@@ -16,12 +16,14 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="200dp"
-            android:layout_height="100dp"
+            android:layout_width="@dimen/_150dip"
+            android:layout_height="@dimen/_150dip"
             android:contentDescription="@string/nav_header_desc"
             android:layout_marginTop="@dimen/_40dip"
             android:layout_gravity="center"
-            app:srcCompat="@drawable/app_logo" />
+            app:srcCompat="@drawable/app_logo"
+            android:background="@drawable/circle"
+            android:padding="@dimen/_4dip"/>
 
         <TextView
             android:layout_width="match_parent"

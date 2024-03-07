@@ -3,12 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="@dimen/_20dip"
+    android:background="@color/v_blue_color"
     android:orientation="vertical">
     <RelativeLayout
         android:id="@+id/rlSectionTop"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+        android:background="@color/white"
         android:padding="6dp">
         <TextView
             android:layout_width="wrap_content"
