@@ -4,16 +4,16 @@ plugins {
 }
 
 android {
-    namespace = "com.example.clickzop_sales"
+    namespace = "com.clikzop.sales_custom"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.clickzop_sales"
+        applicationId = "com.clikzop.sales_custom"
         minSdk = 24
         targetSdk = 32
         versionCode = 1
         versionName = "1.0"
-        archivesBaseName = "clickzop_sales" + versionCode
+        archivesBaseName = "sales_custom" + versionCode
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
