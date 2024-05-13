@@ -13,5 +13,5 @@ dependencyResolutionManagement {
 
     }
 }
-rootProject.name = "ClickZop Sales Custom"
+rootProject.name = "ClikZop Sales"
 include ':app'
