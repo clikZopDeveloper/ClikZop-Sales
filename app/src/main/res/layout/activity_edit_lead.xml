@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@color/colorPrimary"
+        android:background="@color/login_box"
         tools:context=".Activity.LoginActivity">
 
         <include
@@ -650,13 +650,12 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:background="@drawable/btn_round_shape"
-                        android:backgroundTint="@color/yellow_color"
                         android:fontFamily="@font/roboto_bold"
                         android:gravity="center"
                         android:padding="15dp"
                         android:text="Add Product"
                         android:layout_weight="1"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:textSize="16sp" />
                     <TextView
                         android:id="@+id/btnSubmit"
@@ -666,12 +665,11 @@
                         android:layout_marginStart="@dimen/_5dip"
                         android:layout_weight="1"
                         android:background="@drawable/btn_round_shape"
-                        android:backgroundTint="@color/yellow_color"
                         android:fontFamily="@font/roboto_bold"
                         android:gravity="center"
                         android:padding="15dp"
                         android:text="Submit"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
 

@@ -13,7 +13,7 @@
         android:layout_margin="@dimen/_2dip"
         android:elevation="@dimen/_5dip"
         android:background="@drawable/btn_round_shape"
-        android:backgroundTint="@color/v_blue_color"
+        android:backgroundTint="@color/login_box"
         android:padding="@dimen/_4dip">
 
 

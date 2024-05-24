@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@color/colorPrimary"
+        android:background="@color/login_box"
         tools:context=".Activity.LoginActivity">
         <include
             android:id="@+id/igToolbar"
@@ -259,12 +259,11 @@
             android:layout_marginHorizontal="@dimen/_30dip"
             android:layout_marginTop="50dp"
             android:background="@drawable/btn_round_shape"
-            android:backgroundTint="@color/white"
             android:gravity="center"
             android:padding="15dp"
             android:text="Add"
             android:fontFamily="@font/roboto_bold"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="16sp" />
         <!-- android:onClick="@{()->loginViewModel.submit()}"-->
         </LinearLayout>

@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="@dimen/_20dip"
-    android:background="@color/v_blue_color"
+    android:background="@color/login_box"
     android:orientation="vertical">
     <RelativeLayout
         android:id="@+id/rlSectionTop"
@@ -170,7 +170,8 @@
             android:layout_gravity="center"
             android:layout_marginStart="@dimen/_5dip"
             android:layout_marginTop="@dimen/_20dip"
-            android:background="@drawable/btn_round_shape"
+            android:background="@drawable/btn_round_shape_white"
+            android:backgroundTint="@color/colorPrimary"
             android:fontFamily="@font/roboto_bold"
             android:gravity="center"
             android:padding="15dp"

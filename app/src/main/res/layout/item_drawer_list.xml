@@ -11,7 +11,8 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_margin="@dimen/_2dip"
-        android:background="@color/white"
+        android:background="@drawable/btn_round_shape_white"
+        android:backgroundTint="@color/login_box"
         android:padding="@dimen/_4dip">
 
         <ImageView

@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         app:cardCornerRadius="@dimen/_5dip"
         app:cardElevation="@dimen/_5dip"
-        app:cardBackgroundColor="@color/v_blue_color"
+        app:cardBackgroundColor="@color/login_box"
         android:layout_margin="@dimen/_4dip">
 
         <RelativeLayout

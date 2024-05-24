@@ -17,7 +17,7 @@
     <color name="app_color">#2960CF</color>
     <color name="light_primar_color">#D8F0C4</color>
   <!--  <color name="vlight_primar_color">#EFF9E7</color>-->
-    <color name="vlight_primar_color">#BCDDFF</color>
+    <color name="vlight_primar_color">#EBEFF8</color>
     <color name="dark_primar_color">#2960CF</color>
     <color name="text_color">#808184</color>
     <color name="yellow_color">#FBC517</color>
@@ -29,6 +29,7 @@
 
 
 
+    <color name="login_box">#EBEFF8</color>
 
 
 
